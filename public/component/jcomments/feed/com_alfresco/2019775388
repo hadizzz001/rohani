@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Brahma Kumaris</title>
+		<description>Discuss Brahma Kumaris</description>
+		<link>https://www.brahmakumaris.org</link>
+		<lastBuildDate>Sun, 22 Dec 2024 09:15:45 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="https://www.brahmakumaris.org/component/jcomments/feed/com_alfresco/2019775388" rel="self" type="application/rss+xml" />
+		<item>
+			<title>RE: Ocean of Purity.mp4</title>
+			<link>https://www.brahmakumaris.org#comment-867</link>
+			<description><![CDATA[unity is stranth]]></description>
+			<dc:creator>neeru</dc:creator>
+			<pubDate>Sun, 28 Dec 2014 15:54:38 +0000</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-867</guid>
+		</item>
+		<item>
+			<title>RE: Ocean of Purity.mp4</title>
+			<link>https://www.brahmakumaris.org#comment-869</link>
+			<description><![CDATA[Nice clip which inspire me a lot]]></description>
+			<dc:creator>abinash</dc:creator>
+			<pubDate>Thu, 04 Dec 2014 18:07:12 +0000</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-869</guid>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Brahma Kumaris</title>
+		<description>Discuss Brahma Kumaris</description>
+		<link>https://www.brahmakumaris.org</link>
+		<lastBuildDate>Sun, 22 Dec 2024 09:15:39 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="https://www.brahmakumaris.org/component/jcomments/feed/com_alfresco/3202887431" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Mary (Moderator) says:</title>
+			<link>https://www.brahmakumaris.org#comment-12904</link>
+			<description><![CDATA[Please go to brahmakumaris.org and click on Centre Locator on the right side of the menu at the top of the home page. This will help you locate a centre close to you. Good luck with your meditation studies!]]></description>
+			<dc:creator>Mary (Moderator)</dc:creator>
+			<pubDate>Fri, 13 Apr 2018 14:42:18 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-12904</guid>
+		</item>
+		<item>
+			<title>Dinesh Kumar says:</title>
+			<link>https://www.brahmakumaris.org#comment-12902</link>
+			<description><![CDATA[Hi, I am want to join meditation session ok BRahma kumaris.]]></description>
+			<dc:creator>Dinesh Kumar</dc:creator>
+			<pubDate>Thu, 12 Apr 2018 05:22:15 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-12902</guid>
+		</item>
+	</channel>
+</rss>

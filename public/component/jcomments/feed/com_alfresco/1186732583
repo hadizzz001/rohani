@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Brahma Kumaris</title>
+		<description>Discuss Brahma Kumaris</description>
+		<link>https://www.brahmakumaris.org</link>
+		<lastBuildDate>Sun, 22 Dec 2024 09:26:36 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="https://www.brahmakumaris.org/component/jcomments/feed/com_alfresco/1186732583" rel="self" type="application/rss+xml" />
+		<item>
+			<title>RE: Plantain Patties</title>
+			<link>https://www.brahmakumaris.org#comment-61</link>
+			<description><![CDATA[with plantain patties you have made my day keep it up]]></description>
+			<dc:creator>ebere</dc:creator>
+			<pubDate>Mon, 08 Dec 2014 13:15:38 +0000</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-61</guid>
+		</item>
+		<item>
+			<title>RE: Plantain Patties</title>
+			<link>https://www.brahmakumaris.org#comment-66</link>
+			<description><![CDATA[thank you! nice one]]></description>
+			<dc:creator>Ashish Raval</dc:creator>
+			<pubDate>Fri, 27 Jun 2014 22:43:22 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-66</guid>
+		</item>
+	</channel>
+</rss>

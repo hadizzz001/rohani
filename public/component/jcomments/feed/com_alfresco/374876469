@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Brahma Kumaris</title>
+		<description>Discuss Brahma Kumaris</description>
+		<link>https://www.brahmakumaris.org</link>
+		<lastBuildDate>Sun, 22 Dec 2024 08:49:09 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="https://www.brahmakumaris.org/component/jcomments/feed/com_alfresco/374876469" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Akshita sharma says:</title>
+			<link>https://www.brahmakumaris.org#comment-28953</link>
+			<description><![CDATA[Om shanti. I want to learn the linkage to the supreme being.]]></description>
+			<dc:creator>Akshita sharma</dc:creator>
+			<pubDate>Wed, 14 Oct 2020 16:52:32 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-28953</guid>
+		</item>
+		<item>
+			<title>Santosh says:</title>
+			<link>https://www.brahmakumaris.org#comment-26043</link>
+			<description><![CDATA[Mindfulness]]></description>
+			<dc:creator>Santosh</dc:creator>
+			<pubDate>Wed, 29 Jul 2020 15:10:43 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-26043</guid>
+		</item>
+	</channel>
+</rss>

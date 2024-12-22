@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Brahma Kumaris</title>
+		<description>Discuss Brahma Kumaris</description>
+		<link>https://www.brahmakumaris.org</link>
+		<lastBuildDate>Sun, 22 Dec 2024 08:48:05 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="https://www.brahmakumaris.org/component/jcomments/feed/com_alfresco/1131582197" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Jane says:</title>
+			<link>https://www.brahmakumaris.org#comment-28018</link>
+			<description><![CDATA[I would love to share this video on FB. Om Shanti]]></description>
+			<dc:creator>Jane</dc:creator>
+			<pubDate>Wed, 09 Sep 2020 06:03:14 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-28018</guid>
+		</item>
+		<item>
+			<title>Misia Tunikowska says:</title>
+			<link>https://www.brahmakumaris.org#comment-22907</link>
+			<description><![CDATA[More ways to experience meditation]]></description>
+			<dc:creator>Misia Tunikowska</dc:creator>
+			<pubDate>Tue, 21 Apr 2020 08:46:26 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-22907</guid>
+		</item>
+		<item>
+			<title>Rahul Bhardwaj says:</title>
+			<link>https://www.brahmakumaris.org#comment-15322</link>
+			<description><![CDATA[I want to join braham kumari, I am suffering from blood cancer]]></description>
+			<dc:creator>Rahul Bhardwaj</dc:creator>
+			<pubDate>Sun, 14 Oct 2018 03:25:04 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-15322</guid>
+		</item>
+	</channel>
+</rss>

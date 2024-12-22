@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Brahma Kumaris</title>
+		<description>Discuss Brahma Kumaris</description>
+		<link>https://www.brahmakumaris.org</link>
+		<lastBuildDate>Sun, 22 Dec 2024 09:05:21 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="https://www.brahmakumaris.org/component/jcomments/feed/com_alfresco/1807524182" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Renuka says:</title>
+			<link>https://www.brahmakumaris.org#comment-29046</link>
+			<description><![CDATA[Share meditation experience]]></description>
+			<dc:creator>Renuka</dc:creator>
+			<pubDate>Sat, 17 Oct 2020 06:50:16 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-29046</guid>
+		</item>
+		<item>
+			<title>Susan B Bennett says:</title>
+			<link>https://www.brahmakumaris.org#comment-26760</link>
+			<description><![CDATA[Thank you]]></description>
+			<dc:creator>Susan B Bennett</dc:creator>
+			<pubDate>Tue, 11 Aug 2020 23:24:11 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-26760</guid>
+		</item>
+	</channel>
+</rss>

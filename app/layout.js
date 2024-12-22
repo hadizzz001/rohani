@@ -19,6 +19,206 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+
+<>
+  {/* Google Tag Manager */}
+  {/* End Google Tag Manager */}
+  <base href="" />
+  <meta httpEquiv="content-type" content="text/html; charset=utf-8" />
+  <meta
+    name="keywords"
+    content="Raja Yoga, Meditation, Peace, Official Brahma Kumaris"
+  />
+  <meta
+    name="description"
+    content="Meditation for Peace, Hope for the World, Wisdom for life and the discovery of Spirituality as a way of life"
+  />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Brahma Kumaris - Home</title>
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Brahma Kumaris - Home" />
+  <meta property="og:url" content="https://www.brahmakumaris.org/" />
+  <meta property="og:site_name" content="Brahma Kumaris" />
+  <meta
+    property="og:description"
+    content="Meditation for Peace, Hope for the World, Wisdom for life and the discovery of Spirituality as a way of life"
+  />
+  <meta property="fb:app_id" content={448111485385999} />
+  <link href="en/index.html" rel="alternate" hrefLang="en" />
+  <link href="es/index.html" rel="alternate" hrefLang="es" />
+  <link href="ru/index.html" rel="alternate" hrefLang="ru" />
+  <link href="hi/index.html" rel="alternate" hrefLang="hi" />
+  <link href="fr/index.html" rel="alternate" hrefLang="fr" />
+  <link
+    href="templates/t3_bs3_blank/favicon.ico"
+    rel="shortcut icon"
+    type="image/vnd.microsoft.icon"
+  />
+  <link
+    href="t3-assets/css/css-b1a6e-89103.css"
+    rel="stylesheet"
+    type="text/css"
+    media="all"
+  />
+  <link
+    href="t3-assets/css/css-6e1ce-89104.css"
+    rel="stylesheet"
+    type="text/css"
+    media="all"
+  />
+  <link
+    href="https://fonts.googleapis.com/css?family=Ubuntu:400,300,500"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="t3-assets/css/css-0d531-81428.css"
+    rel="stylesheet"
+    type="text/css"
+    media="all"
+  />
+  <link
+    href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700,700italic&subset=latin,cyrillic"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="t3-assets/css/css-75ad6-43016.css"
+    rel="stylesheet"
+    type="text/css"
+    media="all"
+  />
+  <link
+    href="t3-assets/css/css-3f395-43017.css"
+    rel="stylesheet"
+    type="text/css"
+    media="all"
+  />
+  <style
+    type="text/css"
+    dangerouslySetInnerHTML={{
+      __html:
+        "\n.jw-icon-next, .jw-icon-rewind {display: none !important;}\n#ultimate_map {height: aaaa;}\n\n#sp-smart-slider.sp-organic-life-layout,\n#sp-smart-slider.sp-organic-life-layout.loading:before{\n    background:#fff\n}\n\n#sp-smart-slider.sp-organic-life-layout,\n.sp-organic-life-layout .sp-slider-item{\nheight: 500px;\n\n}\n\n.sp-organic-life-layout .sp-slider-items{\n    /*width:1170px;*/\n}\n\n@media (max-width:767px) {\n#sp-smart-slider.sp-organic-life-layout,\n.sp-organic-life-layout .sp-slider-item{\n    height: 400px;\n}\n\n.sp-organic-life-layout .sp-slider-items{\n    /*width:940px;*/\n}\n\n}\n\n@media (max-width:480px) {\n#sp-smart-slider.sp-organic-life-layout,\n.sp-organic-life-layout .sp-slider-item{\n    height: 300px;\n}\n}\n\t"
+    }}
+  />
+  <link href="en/index.html" rel="alternate" hrefLang="x-default" />
+  <meta property="og:image" content="https://www.brahmakumaris.org/" />
+  <meta name="viewport" content="width=device-width" />
+  {/* META FOR IOS & HANDHELD */}
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta
+    name="google-site-verification"
+    content="RNdbUyq1UHdvoOxXs9_WM2eVf81frxBb2K24xzUT3YQ"
+  />
+  <meta property="fb:pages" content={25079741788} />
+  <style
+    type="text/stylesheet"
+    dangerouslySetInnerHTML={{
+      __html:
+        "\n\t\t@-webkit-viewport   { width: device-width; }\n\t\t@-moz-viewport      { width: device-width; }\n\t\t@-ms-viewport       { width: device-width; }\n\t\t@-o-viewport        { width: device-width; }\n\t\t@viewport           { width: device-width; }\n\t"
+    }}
+  />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="apple-mobile-web-app-capable" content="YES" />
+  {/* //META FOR IOS & HANDHELD */}
+  {/* Le HTML5 shim and media query for IE8 support */}
+  {/*[if lt IE 9]>
+
+
+<![endif]*/}
+  {/* You can add Google Analytics here or use T3 Injection feature */}
+  <link
+    rel="apple-touch-icon"
+    sizes="57x57"
+    href="templates/t3_bs3_blank/images/apple-touch-icon-57x57.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="60x60"
+    href="templates/t3_bs3_blank/images/apple-touch-icon-60x60.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="72x72"
+    href="templates/t3_bs3_blank/images/apple-touch-icon-72x72.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="76x76"
+    href="templates/t3_bs3_blank/images/apple-touch-icon-76x76.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="114x114"
+    href="templates/t3_bs3_blank/images/apple-touch-icon-114x114.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="120x120"
+    href="templates/t3_bs3_blank/images/apple-touch-icon-120x120.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="144x144"
+    href="templates/t3_bs3_blank/images/apple-touch-icon-144x144.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="152x152"
+    href="templates/t3_bs3_blank/images/apple-touch-icon-152x152.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="templates/t3_bs3_blank/images/apple-touch-icon-180x180.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    href="templates/t3_bs3_blank/images/favicon-32x32.png"
+    sizes="32x32"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    href="templates/t3_bs3_blank/images/android-chrome-192x192.png"
+    sizes="192x192"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    href="templates/t3_bs3_blank/images/favicon-96x96.png"
+    sizes="96x96"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    href="templates/t3_bs3_blank/images/favicon-16x16.png"
+    sizes="16x16"
+  />
+  <link rel="manifest" href="templates/t3_bs3_blank/images/manifest.json" />
+  <link
+    rel="mask-icon"
+    href="templates/t3_bs3_blank/images/safari-pinned-tab.svg"
+  />
+  {/* link rel="shortcut icon" href="/templates/t3_bs3_blank/images/favicon.ico"*/}
+  <meta name="msapplication-TileColor" content="#ffc40d" />
+  <meta
+    name="msapplication-TileImage"
+    content="/templates/t3_bs3_blank/images/mstile-144x144.png"
+  />
+  <meta
+    name="msapplication-config"
+    content="/templates/t3_bs3_blank/images/browserconfig.xml"
+  />
+  <meta name="theme-color" content="#ffffff" />
+</>
+
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >

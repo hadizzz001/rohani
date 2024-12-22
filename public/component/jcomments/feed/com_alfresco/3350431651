@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Brahma Kumaris</title>
+		<description>Discuss Brahma Kumaris</description>
+		<link>https://www.brahmakumaris.org</link>
+		<lastBuildDate>Sun, 22 Dec 2024 09:14:04 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="https://www.brahmakumaris.org/component/jcomments/feed/com_alfresco/3350431651" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Mary (Moderator) says:</title>
+			<link>https://www.brahmakumaris.org#comment-14982</link>
+			<description><![CDATA[Please refer to the Centre locator tab to find a Brahma Kumaris meditation centre near you. You can contact that centre for free meditation classes.]]></description>
+			<dc:creator>Mary (Moderator)</dc:creator>
+			<pubDate>Sat, 22 Sep 2018 23:43:19 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-14982</guid>
+		</item>
+		<item>
+			<title>Naveen says:</title>
+			<link>https://www.brahmakumaris.org#comment-14812</link>
+			<description><![CDATA[I want to join for meditation]]></description>
+			<dc:creator>Naveen</dc:creator>
+			<pubDate>Wed, 12 Sep 2018 19:18:03 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-14812</guid>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Brahma Kumaris</title>
+		<description>Discuss Brahma Kumaris</description>
+		<link>https://www.brahmakumaris.org</link>
+		<lastBuildDate>Sun, 22 Dec 2024 09:04:57 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="https://www.brahmakumaris.org/component/jcomments/feed/com_alfresco/427809174" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Vara says:</title>
+			<link>https://www.brahmakumaris.org#comment-26469</link>
+			<description><![CDATA[Om Shanthi]]></description>
+			<dc:creator>Vara</dc:creator>
+			<pubDate>Fri, 07 Aug 2020 22:09:01 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-26469</guid>
+		</item>
+		<item>
+			<title>Ramniwas Sharma says:</title>
+			<link>https://www.brahmakumaris.org#comment-25714</link>
+			<description><![CDATA[Kindly send video at my email...]]></description>
+			<dc:creator>Ramniwas Sharma</dc:creator>
+			<pubDate>Sun, 19 Jul 2020 02:49:08 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-25714</guid>
+		</item>
+	</channel>
+</rss>

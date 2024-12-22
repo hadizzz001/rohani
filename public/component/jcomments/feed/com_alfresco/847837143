@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Brahma Kumaris</title>
+		<description>Discuss Brahma Kumaris</description>
+		<link>https://www.brahmakumaris.org</link>
+		<lastBuildDate>Sun, 22 Dec 2024 09:08:05 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="https://www.brahmakumaris.org/component/jcomments/feed/com_alfresco/847837143" rel="self" type="application/rss+xml" />
+		<item>
+			<title>RE: Kindness - Guided Meditation</title>
+			<link>https://www.brahmakumaris.org#comment-476</link>
+			<description><![CDATA[A perfect way to see kindness in those around us.]]></description>
+			<dc:creator>sol</dc:creator>
+			<pubDate>Wed, 14 Nov 2012 17:11:05 +0000</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-476</guid>
+		</item>
+		<item>
+			<title>RE: Kindness - Guided Meditation</title>
+			<link>https://www.brahmakumaris.org#comment-479</link>
+			<description><![CDATA[Very nice.... Amazing, and so helpful to all ppl worldwide.]]></description>
+			<dc:creator>Dr Sanjay M Shah</dc:creator>
+			<pubDate>Thu, 08 Nov 2012 15:19:05 +0000</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-479</guid>
+		</item>
+	</channel>
+</rss>

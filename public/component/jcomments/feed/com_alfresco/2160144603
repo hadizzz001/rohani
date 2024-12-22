@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Brahma Kumaris</title>
+		<description>Discuss Brahma Kumaris</description>
+		<link>https://www.brahmakumaris.org</link>
+		<lastBuildDate>Sun, 22 Dec 2024 09:30:32 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="https://www.brahmakumaris.org/component/jcomments/feed/com_alfresco/2160144603" rel="self" type="application/rss+xml" />
+		<item>
+			<title>manju says:</title>
+			<link>https://www.brahmakumaris.org#comment-8330</link>
+			<description><![CDATA[I have learnt how to face situations with peace , love and happiness.I feel presence of god with me.I am so lucky god has choosen me for his service.]]></description>
+			<dc:creator>manju</dc:creator>
+			<pubDate>Thu, 09 Jun 2016 04:00:23 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-8330</guid>
+		</item>
+		<item>
+			<title>Preeti Singh says:</title>
+			<link>https://www.brahmakumaris.org#comment-8325</link>
+			<description><![CDATA[Thank You Dadi... lots of love :)]]></description>
+			<dc:creator>Preeti Singh</dc:creator>
+			<pubDate>Wed, 08 Jun 2016 05:44:50 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-8325</guid>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Brahma Kumaris</title>
+		<description>Discuss Brahma Kumaris</description>
+		<link>https://www.brahmakumaris.org</link>
+		<lastBuildDate>Sun, 22 Dec 2024 09:11:39 +0000</lastBuildDate>
+		<generator>JComments</generator>
+		<atom:link href="https://www.brahmakumaris.org/component/jcomments/feed/com_alfresco/3778862819" rel="self" type="application/rss+xml" />
+		<item>
+			<title>RE: Spice Cake Recipe</title>
+			<link>https://www.brahmakumaris.org#comment-122</link>
+			<description><![CDATA[very delicious.how to make cake soft without eggs?]]></description>
+			<dc:creator>thu</dc:creator>
+			<pubDate>Mon, 04 Oct 2010 09:40:40 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-122</guid>
+		</item>
+		<item>
+			<title>RE: Spice Cake Recipe</title>
+			<link>https://www.brahmakumaris.org#comment-125</link>
+			<description><![CDATA[I tremendously enjoued viewing your recipes. Please would you be able to share a tasty tried and tested vanilla sponge cake recipe.This would be most highly appreciated.Kind RegardsBimla Singh]]></description>
+			<dc:creator>Bimla Singh</dc:creator>
+			<pubDate>Mon, 02 Aug 2010 17:28:10 +0100</pubDate>
+			<guid>https://www.brahmakumaris.org#comment-125</guid>
+		</item>
+	</channel>
+</rss>
