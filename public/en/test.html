@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Category Data</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    .category-list {
+      list-style: none;
+      padding: 0;
+    }
+    .category-item {
+      padding: 10px;
+      border: 1px solid #ddd;
+      margin: 5px 0;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Categories</h1>
+  <ul id="category-list" class="category-list">
+    <!-- Categories will be rendered here -->
+  </ul>
+
+  <script>
+    async function fetchAndRenderCategories() {
+      try {
+        const response = await fetch("/api/posts");
+        if (!response.ok) {
+          throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+
+        const data = await response.json();
+
+        const categoryList = document.getElementById('category-list');
+        categoryList.innerHTML = ''; // Clear the list if there is any existing content
+
+        data.forEach(category => {
+          const listItem = document.createElement('li');
+          listItem.className = 'category-item';
+          listItem.textContent = category.name; // Adjust 'name' based on the actual structure of the API data
+          categoryList.appendChild(listItem);
+        });
+      } catch (error) {
+        console.error('Error fetching categories:', error);
+        const categoryList = document.getElementById('category-list');
+        categoryList.innerHTML = '<li>Error loading categories. Please try again later.</li>';
+      }
+    }
+
+    // Fetch and render categories on page load
+    fetchAndRenderCategories();
+  </script>
+</body>
+</html>

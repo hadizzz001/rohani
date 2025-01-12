@@ -27,18 +27,18 @@ export default function RootLayout({ children }) {
   <meta httpEquiv="content-type" content="text/html; charset=utf-8" />
   <meta
     name="keywords"
-    content="Raja Yoga, Meditation, Peace, Official Brahma Kumaris"
+    content="Raja Yoga, Meditation, Peace, Official Haidar Medlej"
   />
   <meta
     name="description"
     content="Meditation for Peace, Hope for the World, Wisdom for life and the discovery of Spirituality as a way of life"
   />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>Brahma Kumaris - Home</title>
+  <title>Haidar Medlej - Home</title>
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Brahma Kumaris - Home" />
+  <meta property="og:title" content="Haidar Medlej - Home" />
   <meta property="og:url" content="https://www.brahmakumaris.org/" />
-  <meta property="og:site_name" content="Brahma Kumaris" />
+  <meta property="og:site_name" content="Haidar Medlej" />
   <meta
     property="og:description"
     content="Meditation for Peace, Hope for the World, Wisdom for life and the discovery of Spirituality as a way of life"

@@ -2431,7 +2431,7 @@ jQuery(document).ready(function(){
         if(jQuery(window).scrollTop() > 2) {
         	jQuery(".t3-header").addClass("lightHeader");
             jQuery("#t3-header").removeClass("animated fadeInUp  animation-active");
-        	jQuery(".logo-img").attr("src","/images/bk-logo.png");
+        	jQuery(".logo-img").attr("src","/pics/logo.webp");
             jQuery(".mod-languages .inputbox").css({"right":"70px"});
     		jQuery(".itp-gs.input-group").css({"right":"187px"});
             
@@ -2462,7 +2462,7 @@ jQuery(document).ready(function(){
         //remove the background property so it comes transparent again (defined in your css)
        jQuery(".t3-header").removeClass("lightHeader");
        jQuery("#t3-header").addClass("animated fadeIn animation-active");
-       jQuery(".logo-img").attr("src","/images/bk-logo-white.png");
+       jQuery(".logo-img").attr("src","/pics/logo.webp");
        jQuery(".nav-scroll").css("display", "none");
        //jQuery(".head-search .form-control").css("width", "130px");
        jQuery(".mod-languages .inputbox").css({"right":"15px"});
